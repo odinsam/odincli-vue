@@ -1,6 +1,5 @@
 // const chalk = require('chalk');
 import chalk from 'chalk';
-
 const colors = ['green', 'blue', 'yellow', 'red', 'white'];
 
 const myChalk = {};
