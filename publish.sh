@@ -12,3 +12,5 @@ npm publish
 npm config set registry=https://registry.npm.taobao.org
 echo -e "\n发布成功\n"
 exit
+
+npm adduser --registry=https://registry.npmjs.org/ --scope=odinorg
